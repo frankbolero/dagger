@@ -1176,10 +1176,10 @@ k8s.io/kube-openapi v0.0.0-20200805222855-6aeccd4b50c6/go.mod h1:UuqjUnNftUyPE5H
 k8s.io/kube-openapi v0.0.0-20201113171705-d219536bb9fd/go.mod h1:WOJ3KddDSol4tAGcJo0Tvi+dK12EcqSLqcWsryKMpfM=
 k8s.io/kubernetes v1.13.0/go.mod h1:ocZa8+6APFNC2tX1DZASIbocyYT5jHzqFVsY5aoB7Jk=
 k8s.io/utils v0.0.0-20201110183641-67b214c5f920/go.mod h1:jPW/WVKK9YHAvNhRxK0md/EJ228hCsBRufyofKtW8HA=
-oss.terrastruct.com/d2 v0.1.5 h1:QNL7C0nZI1DLU7gc5vkwXiaSZKJzsSdPyLDJxr4O17M=
-oss.terrastruct.com/d2 v0.1.5/go.mod h1:RFg3HvInAbPc1kbRxLYrx4DW3hiFgfVB1HAxINfVwno=
-oss.terrastruct.com/util-go v0.0.0-20221226181616-c04ce7d1b79f h1:psTZna5TN42M+DA1oiuIATH/mxdQ81kNoYUcWXyrAYE=
-oss.terrastruct.com/util-go v0.0.0-20221226181616-c04ce7d1b79f/go.mod h1:Fwy72FDIOOM4K8F96ScXkxHHppR1CPfUyo9+x9c1PBU=
+oss.terrastruct.com/d2 v0.1.6 h1:TdNET4uzt3Djl66UriSR3sbItWYcCV9ugpHzF9w2eIY=
+oss.terrastruct.com/d2 v0.1.6/go.mod h1:7sIRmEj3QeXVB6erSPW6dOfFUX7orsQkO0twmTYILEA=
+oss.terrastruct.com/util-go v0.0.0-20230118143836-0960f48cae9f h1:+VLjmVHPpFbsovhDyXOX7xRa8bM6tQ2821jsviq57PY=
+oss.terrastruct.com/util-go v0.0.0-20230118143836-0960f48cae9f/go.mod h1:Fwy72FDIOOM4K8F96ScXkxHHppR1CPfUyo9+x9c1PBU=
 rsc.io/pdf v0.1.1 h1:k1MczvYDUvJBe93bYd7wrZLLUEcLZAuF824/I4e5Xr4=
 sigs.k8s.io/apiserver-network-proxy/konnectivity-client v0.0.14/go.mod h1:LEScyzhFmoF5pso/YSeBstl57mOzx9xlU9n85RGrDQg=
 sigs.k8s.io/apiserver-network-proxy/konnectivity-client v0.0.15/go.mod h1:LEScyzhFmoF5pso/YSeBstl57mOzx9xlU9n85RGrDQg=
